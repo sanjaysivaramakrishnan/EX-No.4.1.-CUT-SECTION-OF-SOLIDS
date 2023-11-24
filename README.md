@@ -42,6 +42,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![4 1](https://github.com/sanjaysivaramakrishnan/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/151629616/f25253a0-0717-44df-b4ca-ae071baf17c7)
+
+
 ## RESULT:
 
 Thus, the cut section for solid model is created.
